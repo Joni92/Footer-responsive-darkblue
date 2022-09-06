@@ -11,5 +11,4 @@ Responsive DarkBlue Footer - Applying grid.
 
 ![preview.png](https://github.com/Joni92/Footer-responsive-darkblue/blob/main/preview.png)
 
-[![Footer-Responsive-mobile.png](https://i.postimg.cc/8z1mWHbC/Footer-Responsive-mobile.png)](https://postimg.cc/svNWC5qF)
-
+![preview.png](https://github.com/Joni92/Footer-responsive-darkblue/blob/main/preview-mobile.png)
