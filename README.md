@@ -9,8 +9,7 @@ Responsive DarkBlue Footer - Applying grid.
 ✅ Link GitHub Pages -> preview: https://joni92.github.io/Footer-responsive-darkblue/
 
 
-
-[![Footer-Responsive-desktop.png](https://i.postimg.cc/8ztBb6ym/Footer-Responsive-desktop.png)](https://postimg.cc/w1Rmq7Y1)
+![preview.png](https://github.com/Joni92/Footer-responsive-darkblue/blob/main/preview.png)
 
 [![Footer-Responsive-mobile.png](https://i.postimg.cc/8z1mWHbC/Footer-Responsive-mobile.png)](https://postimg.cc/svNWC5qF)
 
