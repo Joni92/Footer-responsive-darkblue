@@ -2,8 +2,9 @@
 Responsive DarkBlue Footer - Applying grid.
 
 
-💻 - Responsive darkblue footer with three sections: Logo, About me, Socials. + attributes.  Mobile view friendly
+💻 - Responsive darkblue footer with three sections: Logo, About me, Socials. + attributes.  
 
+🟢 Mobile view friendly
 
 ✅ Link GitHub Pages -> preview: https://joni92.github.io/Footer-responsive-darkblue/
 
