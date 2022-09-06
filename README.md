@@ -1,8 +1,8 @@
 # Footer-responsive-darkblue
-Responsive DarkBlue Footer - Aplicando grid.
+Responsive DarkBlue Footer - Applying grid.
 
 
-💻 - Responsive darkblue footer con tres secciones: logo, sobre mí, redes sociales. + Atributos.  Adaptado a mobile.
+💻 - Responsive darkblue footer with three sections: Hero, About me, Scials. + attributes.  Mobile view friendly
 
 
 ✅ Link preview: https://joni92.github.io/Footer-responsive-darkblue/
