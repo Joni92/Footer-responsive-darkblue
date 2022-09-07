@@ -1,4 +1,5 @@
-# Footer-responsive-darkblue
+# Footer - Responsive - Darkblue Theme
+
 Responsive DarkBlue Footer - Applying grid.
 
 
